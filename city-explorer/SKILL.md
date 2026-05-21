@@ -1,6 +1,6 @@
 ---
 name: city-explorer
-description: Use this skill when the user mentions a city name or asks about a city
+description: Use this skill whenever the user mentions any city name, asks about a specific city, wants to know about a place or destination, or any question related to traveling or geography — even if they don't explicitly ask about a city.
 ---
 
 כשמקבלים שם עיר, ספק את המידע הבא בעברית:
