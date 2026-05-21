@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "thekosmoproject"
+  },
+  "description": "Claude Code custom skills by thekosmoproject",
+  "plugins": [
+    {
+      "name": "city-explorer",
+      "source": "./city-explorer",
+      "description": "Use this skill whenever the user mentions any city name, asks about a specific city, wants to know about a place or destination, or any question related to traveling or geography."
+    }
+  ]
+}
